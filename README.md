@@ -1,4 +1,5 @@
 # TMDb-movie-analysis
+## For the project, please go directly to **Investigate_a_Dataset.ipynb**.
 
 ### Date created
 February 16, 2020
